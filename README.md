@@ -70,11 +70,3 @@ This project is licensed under the MIT License.
 
 ✅ You can now paste this directly into your `README.md` file. Let me know if you want to add screenshots or documentation later!
 
-
-
-
-
-
-
-
-Ask ChatGPT
