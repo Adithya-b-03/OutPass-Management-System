@@ -21,10 +21,6 @@ Built using **Java (Swing GUI)** and **MySQL**, this system streamlines the requ
 - README.md # This file
 - ... # Other supporting files
 
-markdown
-Copy
-Edit
-
 ## 🧪 Technologies Used
 
 - Java (Swing)
