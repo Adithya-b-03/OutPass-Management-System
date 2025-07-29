@@ -60,8 +60,7 @@ USE outpass_system;
 Compile and run
 
 ## 👨‍💻 Author
-Adithya B
-GitHub
+Adithya-b-03
 
 ## 📄 License
 This project is licensed under the MIT License.
